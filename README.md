@@ -1,7 +1,8 @@
 # Olá, me chamo Fabiano Targa Prudencio ! 
 # Bem vindo ao meu perfil GitHub 👋
 
-# Tecnologias:
+### 🖥️ Tecnologias e Ferramentas:
+<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><code>        
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /><code>
