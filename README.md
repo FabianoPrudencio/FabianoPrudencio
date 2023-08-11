@@ -1,7 +1,6 @@
-# Olá, me chamo Fabiano Targa Prudencio ! 
 # Bem vindo ao meu perfil GitHub 👋
+### Olá, me chamo Fabiano Targa Prudencio ! 
 Tenho 34 anos, moro em Ribeirão Preto/SP e adoro programação! Sou aquele que quanto mais aprende, mais passa raiva, mais amo tudo isso!
-
 ☕🎮 Gosto muito de café e games!
 
 ### 🖥️ Tecnologias e Ferramentas:
