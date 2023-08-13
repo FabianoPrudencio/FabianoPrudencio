@@ -1,7 +1,7 @@
 # Bem vindo ao meu perfil GitHub 👋
 ### Olá, me chamo Fabiano Targa Prudencio ! 
-Tenho 34 anos, moro em Ribeirão Preto/SP e adoro programação! Sou aquele que quanto mais aprende, mais passa raiva, mais amo tudo isso!
-☕🎮 Gosto muito de café e games!
+Tenho 34 anos, moro em Ribeirão Preto/SP e adoro programação! Sou um desenvolvedor dedicado e procuro sempre aprender mais e mais! Possuo conhecimento na linguagem C# || MySQL || SQLite || CSS || HTML || Android || Unity.
+☕E Gosto muito de café!
 
 ### 🖥️ Tecnologias e Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/>
