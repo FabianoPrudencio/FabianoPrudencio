@@ -12,7 +12,7 @@ Tenho 34 anos, moro em Ribeirão Preto/SP e adoro programação! Sou um desenvol
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoPrudencio&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianoPrudencio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>          
 </div>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fabiano-targa-prudencio-7b5893280" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/fabiano-targa-prudencio-7b5893280?trk=profile-badge">Fabiano Targa Prudencio</a></div>    
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fabiano-targa-prudencio-7b5893280" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/fabiano-targa-prudencio-7b5893280?trk=profile-badge">Fabiano Targa Prudencio</a></div>
 
 # 📫 Contatos:
 <div>
